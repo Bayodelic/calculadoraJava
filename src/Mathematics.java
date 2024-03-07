@@ -1,10 +1,10 @@
 public class Mathematics {
 
-    public int add(int num1,int num2){
+    public double add(double num1,double num2){
         return num1 + num2;
     }
 
-    public int subtraction(int num1, int num2){
+    public double subtraction(double num1, double num2){
         return num1 * num2;
     }
 
@@ -12,7 +12,7 @@ public class Mathematics {
         return num1 / num2;
     }
 
-    public int multiplication(int num1, int num2){
+    public double multiplication(double num1, double num2){
         return num1 * num2;
     }
 
